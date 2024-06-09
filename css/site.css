@@ -1,0 +1,37 @@
+header{
+	height: 250px;
+	background-color: lightblue;
+}
+header{
+	height: 250px;
+	background-color: lightblue;
+}
+nav{
+	width: 20%;
+	background-color: lightgoldenrodyellow;
+	float: left;
+}
+h2{
+	text-align: center;
+} 
+main{ 
+	width: 60%;
+	background-color: lightgreen;
+	float: leat;
+}
+footer{
+	height: 250px;
+	background-color: lightpink;
+	clear: both;
+	article{
+	border: dashed 3px green;
+	margin: 5px;
+article{
+	border: dashed 3px green;
+	margin: 5px;
+
+}
+article p{
+	text-align: justify;
+	margin: 5px ;
+}
